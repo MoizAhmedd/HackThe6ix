@@ -11,4 +11,11 @@
   Built under $25</li>
 </ul>
 
+## How it works
+SV comes with many features that allows the visually and deaf people to communicate with surroundings and loved ones.
+### Smart Glove Injury Protection
+### Surroundings Analysis
+### Communication with caregiver through Sign Language Recognition
+### Dashboard 
+
 
