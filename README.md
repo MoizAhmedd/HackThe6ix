@@ -20,6 +20,10 @@ SV comes with many features that allows the visually and deaf people to communic
   <li> The caregiver can activate 2 modes, the Visual Mode, and Hearing mode, each mode provides different services that are mentioned below </li>
   <li> The dashboard also allows for caregivers to check up on their patients, by finding out the recent places they have visited, emergency contacts, and allergies </li>
 </ul>
+<p align="center">
+  </br>
+  <img src="dashboard.png"/>
+</p>
 
 ### Smart Glove Injury Protection
 <hr>
