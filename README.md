@@ -14,12 +14,13 @@
 ## How it works
 SV comes with many features that allows the visually and deaf people to communicate with surroundings and loved ones.
 ### Dashboard 
+### Smart Glove Injury Protection
 <ul>
   <li> The dashboard is a way for caregivers to interact with patients that are either visually impaired or suffer from deafness </li>
   <li> The caregiver can activate 2 modes, the Visual Mode, and Hearing mode, each mode provides different services that are mentioned below </li>
   <li> The dashboard also allows for caregivers to check up on their patients, by finding out the recent places they have visited, emergency contacts, and allergies </li>
 </ul>
-  
+
 ### Smart Glove Injury Protection
 <ul>
   <li> We have created a Smart Glove for the Visually impaired, that detects objects that are within 12 CM of the user, as well as detects objects that are over a certain temperature(too hot), and a beep sound is made to notify the user.</li>
