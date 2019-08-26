@@ -24,11 +24,13 @@ SV comes with many features that allows the visually and deaf people to communic
 <ul>
   <li> We have created a Smart Glove for the Visually impaired, that detects objects that are within 12 CM of the user, as well as detects objects that are over a certain temperature(too hot), and a beep sound is made to notify the user.</li>
 </ul>
+
 ### Smart Glasses for surroundings Analysis
 <ul>
   <li> With SV, a virtually impaired user can wear our smart glasses to get analysis of their surroundings </li>
   <li> Our glasses capture pictures of the surroundings, and with computer vision algorithms analyze the content, the content is then converted into speech, and is sent to the user </li>
 </ul>
+
 ### Communication with caregiver through Sign Language Recognition
 <ul>
   <li>When hearing mode is activated, a caregiver can interact with a Hearing Impaired person, by communicating through sign language</li>
