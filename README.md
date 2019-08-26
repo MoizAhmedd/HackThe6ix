@@ -40,3 +40,8 @@ SV comes with many features that allows the visually and deaf people to communic
   <li>When hearing mode is activated, a caregiver can interact with a Hearing Impaired person, by communicating through sign language</li>
   <li>We have implemented algorithms that allow for sign language to be translated to English, so that caregivers can understand their patients, and guide them </li>
 </ul>
+<div style = "display:flex;flex-direction:row;text-align:center;">
+  <img src = "K.jpg">
+  <img src = "E.jpg">
+  <img src = "Y.jpg">
+</div>
