@@ -31,7 +31,7 @@ SV comes with many features that allows the visually and deaf people to communic
   <img src="glove.png"/>
 </p>
 
-### Smart Glasses for surroundings Analysis
+### Smart Glasses for Surroundings Analysis
 <hr>
 <ul>
   <li> With SV, a virtually impaired user can wear our smart glasses to get analysis of their surroundings </li>
@@ -49,3 +49,10 @@ SV comes with many features that allows the visually and deaf people to communic
   <img width = "30%" src = "E.png">
   <img width = "30%" src = "Y.png">
 </div>
+
+## Usage
+Hardware is not currently in production
+
+## Recognition for Spectrum Vision
+<p> Spectrum Vision was awarded 3rd Place Overall at Hack The 6ix 2019 <p>
+  
