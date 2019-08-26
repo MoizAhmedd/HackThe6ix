@@ -26,6 +26,10 @@ SV comes with many features that allows the visually and deaf people to communic
 <ul>
   <li> We have created a Smart Glove for the Visually impaired, that detects objects that are within 12 CM of the user, as well as detects objects that are over a certain temperature(too hot), and a beep sound is made to notify the user.</li>
 </ul>
+<p align="center">
+  </br>
+  <img src="glove.png"/>
+</p>
 
 ### Smart Glasses for surroundings Analysis
 <hr>
