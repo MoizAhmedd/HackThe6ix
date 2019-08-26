@@ -1,2 +1,4 @@
 # Spectrum Vision
-![](docs/screenshot.png)
+<div style = "margin: 0 auto">
+  <img src = "header.png">
+</div>
